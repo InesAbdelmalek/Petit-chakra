@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
+
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body { font-family: : 'Garamond', serif; font-size: 18px; margin: 0px; }
+h1 { font-family: 'Bradley hand', sans-serif; color:#E3DAD5;}
+h2, h3 { font-family: 'Garamond', sans-serif; font-weight: lighter; color:#8d6d94;}
+p { font-size: 22px; color: rgba(100,100,100,0.5);}
+
